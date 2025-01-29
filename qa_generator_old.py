@@ -1,4 +1,4 @@
-# This is the mac mini version of the qa_generator.py file
+# This is the mac mini version of the qa_generator.py file ff
 import os
 import logging
 from dotenv import load_dotenv
